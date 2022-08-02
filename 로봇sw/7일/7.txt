@@ -1,0 +1,58 @@
+
+모든 문자열에는 '\0'가 들어간다
+
+VERSION=7.3.2
+wget https://services.gradle.org/distributions/gradle-${VERSION}-bin.zip -P /tmp
+ 
+sudo unzip -d /opt/gradle /tmp/gradle-${VERSION}-bin.zip
+ 
+sudo unzip -d /opt/gradle /tmp/gradle-${VERSION}-bin.zip
+ 
+echo "export GRADLE_HOME=/opt/gradle/latest" >> ~/.bashrc
+echo "export PATH=${GRADLE_HOME}/bin:${PATH}" >> ~/.bashrc
+source ~/.bashrc
+ 
+gradle -v
+출처: https://coding-robot.tistory.com/21 [코딩 로봇하는 사람:티스토리]
+
+cd ~C:\Users\WSU\Desktop\demo
+./gradlew build
+출처: https://coding-robot.tistory.com/25 [코딩 로cd봇하는 사람:티스토리
+
+./gradlew build
+./gradlew bootRun
+출처: https://coding-robot.tistory.com/21 [코딩 로봇하는 사람:티스토리]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
