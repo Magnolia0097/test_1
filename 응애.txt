@@ -1,0 +1,57 @@
+백엔드 - java, spring, API 설계, React
+Non-blocking or Asynchronous programming
+
+데이터 - MySQL, AWS, NoSQL
+Hadoop, Hive 
+데이터 파이프라인
+
+
+
+
+
+
+
+
+
+
+
+머신러닝
+공통
+tensorflow framework
+
+
+
+
+프론트엔드
+- react
+- html, css, js
+
+
+
+백엔드 
+- java, spring
+- MySQL, MongoDB
+- k8s, doker
+
+
+
+데이터 엔지니어  
+- python
+
+머신러닝 엔지니어
+- python
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
