@@ -1752,7 +1752,7 @@
 
   (footprint "1_KJC_Library:KJC_logo_15" (layer "F.Cu")
     (tedit 0) (tstamp ce9d334a-3b09-434e-bf97-e8ab3dc0a20f)
-    (at 180.34 77.47)
+    (at 163.83 66.04)
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "G***" (at 20.955 -1.27) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.3)))
@@ -3423,4 +3423,18 @@
       ) (layer "F.Cu") (width 0) (fill solid) (tstamp fd7c604e-3f83-40f6-8622-8d717099e985))
   )
 
+  (zone (net 0) (net_name "") (layer "F.Cu") (tstamp df09d23b-201d-42a8-837c-3c3e782da911) (hatch edge 0.508)
+    (connect_pads (clearance 0))
+    (min_thickness 0.254)
+    (keepout (tracks not_allowed) (vias not_allowed) (pads not_allowed) (copperpour allowed) (footprints allowed))
+    (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
+    (polygon
+      (pts
+        (xy 218.44 87.63)
+        (xy 186.69 87.63)
+        (xy 186.69 53.34)
+        (xy 218.44 50.8)
+      )
+    )
+  )
 )
